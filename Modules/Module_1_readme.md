@@ -1,18 +1,12 @@
 
-## Module making for SARS-CoV-2 B4B
+## Module making
 
 The base for practical content for this course will be in Python notebooks (.ipynb)
 
 These must be workable in the Google Colab platform - https://colab.research.google.com 
 
 We have created an example notebook - 
-
-## Lecture Videos to watch:
-
-[Module 1: Playlist](https://www.youtube.com/playlist?list=PLfovZnX0TvKtHq6Q4L5KdW332NCD4GbtU)
-
-Please use this as a start base for your module. 
-
+ 
 ## How to begin Part 1:
 NB- you must begin part 1 before part 2. 
 
@@ -24,7 +18,7 @@ On the Colab example home page, select "File", then "Open Notebook"
 
 There is a Tab for "Github"; select that tab and paste 
 ```
-https://github.com/WCSCourses/SARS-COV-2_B4B
+https://github.com/BioinformaticaUSFQ1/Course_Bioinformatics
 ```
 into the search bar under "Enter a GitHub URL or search by organization or user" 
 
