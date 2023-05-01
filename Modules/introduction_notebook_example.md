@@ -10,15 +10,15 @@ On the Colab example home page, select "File", then "Open Notebook"
 
 There is a Tab for "Github"; select that tab and paste 
 ```
-https://github.com/WCSCourses/SARS-COV-2_B4B
+https://github.com/BioinformaticaUSFQ1/Course_Bioinformatics
 ```
 into the search bar under "Enter a GitHub URL or search by organization or user" 
 
 After a brief search, you will see
 ```
-Modules/Introday_Notebook_SARSCOV2B4B.ipynb
+Modules/Introday_Notebook.ipynb
 ```
-below "Path". Click on "Introday_Notebook_SARSCOV2B4B.ipynb"
+below "Path". Click on "Modules/Introday_Notebook.ipynb"
 
 You will see the template notebook open.
 
