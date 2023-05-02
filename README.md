@@ -14,7 +14,7 @@ Access to Colab is via a [Google Account](https://www.google.com/account/about/)
 
 [Introduction Notebook - Begin here](Modules/introduction_notebook_example.md) 
 
-[Day 1 and 2 Notebook - Begin here](Modules/Module_1_readme.md) 
+[Day 1 and 2 Notebook](Modules/Module_1_readme.md) 
 
 [Introduction Day 1](Slides/Virtual_training_day1.pdf)
 
