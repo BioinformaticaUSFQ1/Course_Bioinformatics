@@ -16,5 +16,14 @@ Access to Colab is via a [Google Account](https://www.google.com/account/about/)
 
 [Day 1 and 2 Notebook](Modules/Module_1_readme.md) 
 
-[Introduction Day 1](Slides/Virtual_training_day1.pdf)
+[Recording Day 1 Spanish](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/ES85EpVvMNBMrpvb3-8mhDYBQDZK9dXgnon8xBoxdYB4mQ)
 
+[Recording Day 1 English](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/ETwvJxdnJo1EuTEssD01TgYBeP_5Tt7yHWk8l8YAaBCPxA)
+
+[Recording Day 1 French](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/EZVkgYRzNcBDsXpJJaCLi4sB_SABwvIKMkbuB1XU18TNkQ)
+
+[Recording Day 2 Spanish](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/EWZjZjNcV55Ji8BSVYQz7X0BGDO-JOyqlUd8n0_2iqGGwQ)
+
+[Recording Day 2 English](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/ER8Hxcz7lvxBqrjb9tyXjooBJC5vnZnPh8oxd1fXgO81vg)
+
+[Recording Day 2 French](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/EX_8f7kF3LpGvHZ6o9T3B2cBUnuRiO4lYTYytIffK67TQg)
