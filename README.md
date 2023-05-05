@@ -27,3 +27,7 @@ Access to Colab is via a [Google Account](https://www.google.com/account/about/)
 [Recording Day 2 English](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/ER8Hxcz7lvxBqrjb9tyXjooBJC5vnZnPh8oxd1fXgO81vg)
 
 [Recording Day 2 French](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/EX_8f7kF3LpGvHZ6o9T3B2cBUnuRiO4lYTYytIffK67TQg)
+
+**Module 2 (Days 3 and 4)**   
+*Sequencing formats and quality control*.
+
