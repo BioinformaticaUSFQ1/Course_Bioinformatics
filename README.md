@@ -32,5 +32,6 @@ Access to Colab is via a [Google Account](https://www.google.com/account/about/)
 
 **Module 2 (Days 3 and 4)**   
 *Sequencing formats and quality control*.
+
 [Slides part 1](Slides/Virtual_training_day3.pdf)
 
