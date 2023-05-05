@@ -16,6 +16,8 @@ Access to Colab is via a [Google Account](https://www.google.com/account/about/)
 
 [Day 1 and 2 Notebook](Modules/Module_1_readme.md) 
 
+[Slides](Slides/Virtual_training_day1.pdf)
+
 [Recording Day 1 Spanish](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/ES85EpVvMNBMrpvb3-8mhDYBQDZK9dXgnon8xBoxdYB4mQ)
 
 [Recording Day 1 English](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/ETwvJxdnJo1EuTEssD01TgYBeP_5Tt7yHWk8l8YAaBCPxA)
@@ -30,4 +32,5 @@ Access to Colab is via a [Google Account](https://www.google.com/account/about/)
 
 **Module 2 (Days 3 and 4)**   
 *Sequencing formats and quality control*.
+[Slides part 1](Slides/Virtual_training_day3.pdf)
 
