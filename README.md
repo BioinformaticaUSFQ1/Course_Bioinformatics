@@ -35,3 +35,5 @@ Access to Colab is via a [Google Account](https://www.google.com/account/about/)
 
 [Slides part 1](Slides/Virtual_training_day3.pdf)
 
+[Module 2 Notebooks](Modules/Module_2_readme.md) 
+
