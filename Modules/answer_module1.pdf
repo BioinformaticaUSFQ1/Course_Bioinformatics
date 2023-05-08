@@ -1,0 +1,11 @@
+Solutions to Exercises
+1. cd course_data/Introduction_to_Linux_Unix_Text_processing/
+Exercises/
+2. head -15 HM067743.1_cds_ADQ37313.1_1.fa > output.fa
+3. ls *.fa | wc -l
+4. grep "^>" all.fa
+5. grep "^>" all.fa | wc -l
+6. cp ../outbreak.csv .; cut -d"," -f3 outbreak.csv | grep -i -v
+"multi-country" | sort | uniq
+7. cut -d" " -f2 outbreak.csv | grep -i -v "multi-country" | sort |
+uniq -c
