@@ -30,7 +30,7 @@ Access to Colab is via a [Google Account](https://www.google.com/account/about/)
 
 [Recording Day 2 French](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/EX_8f7kF3LpGvHZ6o9T3B2cBUnuRiO4lYTYytIffK67TQg)
 
-[Solution_exercise](Modules/answer_module1.pdf)
+[Solution_exercise](Modules/answer_module1)
 
 
 
