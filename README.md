@@ -41,3 +41,11 @@ Access to Colab is via a [Google Account](https://www.google.com/account/about/)
 
 [Module 2 Notebooks](Modules/Module_2_readme.md) 
 
+
+**Module 3 (Day 5)**   
+*SARS-CoV-2 Analysis*.
+
+[Slides](Slides/Virtual_training_day5.pdf)
+
+[Module 3 Notebooks](Modules/Module_3_readme.md) 
+
