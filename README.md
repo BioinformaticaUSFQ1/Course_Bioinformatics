@@ -41,11 +41,28 @@ Access to Colab is via a [Google Account](https://www.google.com/account/about/)
 
 [Module 2 Notebooks](Modules/Module_2_readme.md) 
 
+[Recording Day 3 Spanish](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/EWTkRuGgaQ1ErEwl1Y2NdrEBlnDsBhAQhqHoRckxn0KQHQ)
+
+[Recording Day 3 English](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/ETwvJxdnJo1EuTEssD01TgYBeP_5Tt7yHWk8l8YAaBCPxA)
+
+[Recording Day 3 French](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/Ef9_e6jOi_BEk88ISipbAvEBmSUJAI_3bQoVPbBz7yHnhg)
+
+[Recording Day 4 Spanish](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/EbszC0NGe6hHh6hjpmF8XV8B7L7MuvuLisYak7rF2_h5CQ)
+
+[Recording Day 4 English](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/EWYGjbvR0URHgEFGyKKCA6kBH3L5EdGlVbqChh8fh-eWDA)
+
+[Recording Day 4 French](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/EfGDbeAkOT9PuALmnNFkI-QBNsLqEe-tpeobcwflRQyyPQ)
+
 
 **Module 3 (Day 5)**   
 *SARS-CoV-2 Analysis*.
 
 [Slides](Slides/Virtual_training_day5.pdf)
 
-[Module 3 Notebooks](Modules/Module_3_readme.md) 
+[Module 3 Notebooks](Modules/Module_3_readme.md)
+
+**Module 4 (Day 6)**   
+*Metagenomes*.
+[Report-examples](Modules/Exmaples.pdf)
+
 
