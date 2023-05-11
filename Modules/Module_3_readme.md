@@ -1,5 +1,6 @@
 ## How to begin:
-
+Due to colab errors, use notebook 
+Modules/Fixed_module3_final.ipynb
 
 To begin, go to https://colab.research.google.com/ 
 
