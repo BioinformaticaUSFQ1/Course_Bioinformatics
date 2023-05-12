@@ -61,8 +61,21 @@ Access to Colab is via a [Google Account](https://www.google.com/account/about/)
 
 [Module 3 Notebooks](Modules/Module_3_readme.md)
 
+[Recording Day 5 Spanish](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/EacsnUspnl5IroCVtSXKo5oBUOiXnmivqXwy9VCSiI0k3A)
+
+[Recording Day 5 English](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/EYCS4jtW-ItEj21Bb_3ZuiUB7CI5_5Qn6aCfjN2Nk1hHkA)
+
+[Recording Day 5 French](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/EdCOVres_IpGi7cDilEB1B0B8yG0hW-neUwCunNC71B9CA)
+
 **Module 4 (Day 6)**   
 *Metagenomes*.
+
+[Recording Day 6 Spanish](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/EUGJWU97mudFtutc6sAmOuIB7myuS4ooA0T_PATca9OdvA)
+
+[Recording Day 6 English](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/EZyVHarHJYhGso22n8vaIKQBClrzzC6ZdapPoh1VfkKUiA)
+
+[Recording Day 6 French](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/EXBWGi2_DnRFlyFGvTLcs8cBi0nfpMnasaqJ0kCJcT8EHw)
+
 
 [Slides](Slides/Virtual_training_day6.pdf)
 
