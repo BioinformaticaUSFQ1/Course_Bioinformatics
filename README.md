@@ -63,6 +63,9 @@ Access to Colab is via a [Google Account](https://www.google.com/account/about/)
 
 **Module 4 (Day 6)**   
 *Metagenomes*.
+
+[Slides](Slides/Virtual_training_day6.pdf)
+
 [Report-examples](Modules/Examples.pdf)
 
 
