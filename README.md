@@ -82,7 +82,7 @@ Access to Colab is via a [Google Account](https://www.google.com/account/about/)
 [Report-examples](Modules/Examples.pdf)
 
 **Module 5 (Day 7)**   
-*Metagenomes*.
+*AMR*.
 
 [Recording Day 7 Spanish](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/Ee2VyhFJrSBEr1eq9eJSsCkBfwVahdFrf3PWc-3wvG7ndA)
 
