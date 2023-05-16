@@ -2,7 +2,7 @@
 Repository for the Bioinformatics Training and Capacity Building Program in Support of the Vigilab System and Epidemiological Analysis
 
 ## Course structure 
-This course is making use of Google Colab - https://colab.research.google.com/, a free to use service.
+This course is making use of Google Colab - https://colab.research.google.com/, a free to use service. Some material was obtained from https://github.com/WCSCourses/
 
 Access to Colab is via a [Google Account](https://www.google.com/account/about/), which can be made for free.
 ## Course program
