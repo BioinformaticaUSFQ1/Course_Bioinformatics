@@ -81,4 +81,13 @@ Access to Colab is via a [Google Account](https://www.google.com/account/about/)
 
 [Report-examples](Modules/Examples.pdf)
 
+**Module 5 (Day 7)**   
+*Metagenomes*.
+
+[Recording Day 7 Spanish](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/Ee2VyhFJrSBEr1eq9eJSsCkBfwVahdFrf3PWc-3wvG7ndA)
+
+[Recording Day 7 English](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/EapPcon7tiBAvT3x_O6Vu1EBjhea07vLc04EPk74C-trWg)
+
+[Recording Day 7 French](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/EWGYJ3BYkKNPvldi1DQZ3cQBId_034w-cFbD_zaZdun4RQ)
+
 
