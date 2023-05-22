@@ -43,7 +43,7 @@ Access to Colab is via a [Google Account](https://www.google.com/account/about/)
 
 [Recording Day 3 Spanish](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/EWTkRuGgaQ1ErEwl1Y2NdrEBlnDsBhAQhqHoRckxn0KQHQ)
 
-[Recording Day 3 English](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/ETwvJxdnJo1EuTEssD01TgYBeP_5Tt7yHWk8l8YAaBCPxA)
+[Recording Day 3 English](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/ETwvJxdnJo1EuTEssD01TgYBeP_5Tt7yHWk8l8YAaBCPxA](https://estudusfqedu-my.sharepoint.com/personal/amafla_usfq_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Famafla%5Fusfq%5Fedu%5Fec%2FDocuments%2FDatos%20adjuntos%2FDay%203%20Sequencing%20formats%5FENG%2Emp4&ga=1)
 
 [Recording Day 3 French](https://estudusfqedu-my.sharepoint.com/:v:/g/personal/amafla_usfq_edu_ec/Ef9_e6jOi_BEk88ISipbAvEBmSUJAI_3bQoVPbBz7yHnhg)
 
